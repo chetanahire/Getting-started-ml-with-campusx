@@ -1,2 +1,2 @@
-# Getting-started-with-ml-with-campusx
+# Getting-started-ml-with-campusx
 Created this repo while learning ml from campusx youtube channel
